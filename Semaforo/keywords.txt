@@ -1,0 +1,6 @@
+Semaforo	KEYWORD1
+Rojo		KEYWORD2
+Verde		KEYWORD2
+Cambia		KEYWORD2
+EsRojo		KEYWORD2
+EsVerde		KEYWORD2

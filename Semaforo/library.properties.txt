@@ -1,0 +1,6 @@
+name=Semaforo
+version=1.0
+author=Leo Lamolda
+sentence=Ejemplo de uso de librerías para la programación de un semaforo.
+category=Educación
+url=http://experimentosconarduino.blogspot.com.es/
